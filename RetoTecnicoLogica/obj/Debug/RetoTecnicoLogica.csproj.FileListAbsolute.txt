@@ -1,0 +1,4 @@
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnicoLogica\bin\Debug\RetoTecnicoLogica.dll
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnicoLogica\bin\Debug\RetoTecnicoLogica.pdb
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnicoLogica\obj\Debug\RetoTecnicoLogica.dll
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnicoLogica\obj\Debug\RetoTecnicoLogica.pdb

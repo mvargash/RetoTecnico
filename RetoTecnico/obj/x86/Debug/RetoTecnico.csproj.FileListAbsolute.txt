@@ -1,0 +1,7 @@
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnico\bin\Debug\RetoTecnico.exe
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnico\bin\Debug\RetoTecnico.pdb
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnico\bin\Debug\RetoTecnicoLogica.dll
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnico\bin\Debug\RetoTecnicoLogica.pdb
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnico\obj\x86\Debug\RetoTecnico.csprojResolveAssemblyReference.cache
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnico\obj\x86\Debug\RetoTecnico.exe
+C:\Users\dccarhuas\Downloads\RetoTecnico\RetoTecnico\obj\x86\Debug\RetoTecnico.pdb
